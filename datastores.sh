@@ -22,5 +22,8 @@ brew update
 brew install mongo
 brew install redis
 
+# Install tools for data stores
+brew cask install --appdir="/Applications" robo-3t
+
 # Remove outdated versions from the cellar.
 brew cleanup

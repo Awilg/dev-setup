@@ -73,6 +73,8 @@ brew cask install --appdir="~/Applications" java
 # Development tool casks
 brew cask install --appdir="/Applications" atom
 brew cask install --appdir="/Applications" macdown
+brew cask install --appdir="/Applications" goland
+brew cask install --appdir="/Applications" postman
 
 # Misc casks
 brew cask install --appdir="/Applications" google-chrome
